@@ -41,14 +41,11 @@ CodeFixer/
 ├── tasks/
 │   ├── tasks.py           # Buggy coding tasks & test cases
 │
-├── server/
-│   ├── app.py             # API server (if applicable)
-│
 ├── tests/
 │   ├── test_env.py        # Unit tests for environment
 │
 ├── inference.py           # Inference / evaluation script
-├── server.py              # Entry point for server
+├── server.py              # FastAPI server
 ├── requirements.txt       # Python dependencies
 ├── Dockerfile             # Container setup
 ├── openenv.yaml           # OpenEnv configuration
