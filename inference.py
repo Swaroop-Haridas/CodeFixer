@@ -1,13 +1,3 @@
-"""
-inference.py — Baseline inference script for CodeFixerEnv.
-
-Environment variables (as per official spec):
-  API_BASE_URL      — base URL of the running server (has default)
-  MODEL_NAME        — model identifier (has default)
-  HF_TOKEN          — Hugging Face API key (NO default — must be set by user)
-  LOCAL_IMAGE_NAME  — optional, only if using from_docker_image()
-"""
-
 import os
 import json
 import requests
