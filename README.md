@@ -30,6 +30,16 @@ This setup mimics real-world debugging scenarios and is ideal for training RL-ba
 
 ---
 
+## 🛠️ Tech Stack
+
+- Python
+- OpenEnv
+- FastAPI
+- Pytest
+- Docker
+
+---
+
 ## 🏗️ Project Structure
 
 ```
